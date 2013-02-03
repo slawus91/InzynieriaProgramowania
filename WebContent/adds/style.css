@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+div.errMess
+{ 
+	color: red; 
+	text-align: justify;	
+}

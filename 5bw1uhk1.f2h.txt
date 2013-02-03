@@ -1,0 +1,42 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   WebContent/Foot.jsp
+#	new file:   WebContent/saveImage.jsp
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.gitattributes
+#	.gitignore
+#	WebContent/CheckLogin.jsp
+#	WebContent/Contact.jsp
+#	WebContent/Login.jsp
+#	WebContent/Logout.jsp
+#	WebContent/META-INF/
+#	WebContent/RegistrationEncrypt.jsp
+#	WebContent/RegistrationForm.jsp
+#	WebContent/Result.jsp
+#	WebContent/SearchByAppearance.jsp
+#	WebContent/SearchByName.jsp
+#	WebContent/SearchByNeeds.jsp
+#	WebContent/SearchByPicture.jsp
+#	WebContent/SearchResult.jsp
+#	WebContent/ThanksForAdd.jsp
+#	WebContent/WEB-INF/
+#	WebContent/addType.jsp
+#	WebContent/adds/
+#	WebContent/header.jsp
+#	WebContent/imageUpload.jsp
+#	WebContent/img/
+#	WebContent/index.jsp
+#	WebContent/paczka/
+#	src/
+
